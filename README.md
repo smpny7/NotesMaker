@@ -34,7 +34,7 @@ This tool converts the JSON file exported by [NoteEditor](https://github.com/set
 # Related Project
 Music score data in [VIVACE](https://github.com/smpny7/VIVACE) Game is created using Notes Maker.
 
-Official Web Site: <https://smpny7.github.io/VIVACE><br />
+Official Web Site: <https://smpny7.github.io/VIVACE-Web><br />
 Github Repository: <https://github.com/smpny7/VIVACE>
 
 
@@ -45,6 +45,6 @@ Please read [CONTRIBUTING.md](https://github.com/smpny7/NotesMaker/blob/master/C
 
 # License
 
-This project is licensed under the smpny7 - see the [LICENSE.md](https://github.com/smpny7/NotesMaker/blob/master/LICENSE) file for details.
+This project is licensed under the smpny7 - see the [LICENSE.md](https://github.com/smpny7/NotesMaker/blob/master/LICENCE) file for details.
 
 *©︎ 2020 smpny7*
