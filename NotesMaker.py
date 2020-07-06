@@ -9,7 +9,7 @@ from decimal import Decimal, ROUND_HALF_UP, ROUND_HALF_EVEN
 
 print("\n-----------------------------------------------")
 print(" \033[1m\033[34mNotes Maker\033[0m (built: June 28 2020) ( MIT )\n")
-print(" github: \033[4mhttps://github.com/smpny7/NotesMaker\033[0m")
+print(" github: \033[4mhttps://github.com/smpny7/notes-maker\033[0m")
 print("-----------------------------------------------\n")
 
 sys.stdout.write('> Checking for input...\n')
